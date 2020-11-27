@@ -5,5 +5,15 @@
 ![Email](https://img.shields.io/static/v1?label=Email&message=p1ggydev@protonmail.com&color=blue)
 ![GHPVC](https://komarev.com/ghpvc/?username=P1ggyDev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P1ggyDev)](https://github.com/P1ggyDev)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=P1ggyDev&count_private=true)
+# Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P1ggyDev&theme=material-palenight)](https://github.com/P1ggyDev)  
+
+# My Status :chart_with_upwards_trend:
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=P1ggyDev&theme=material-palenight&count_private=true)
+
+# My Project :package:
+|       Name       | Description                                             |
+|:----------------:|---------------------------------------------------------|
+| PluginVerifyTool | PocketMine's plugin verification tool using SHA256 hash |
