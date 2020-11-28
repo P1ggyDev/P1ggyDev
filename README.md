@@ -7,11 +7,11 @@
 
 # Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P1ggyDev&theme=material-palenight)](https://github.com/P1ggyDev)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P1ggyDev&theme=buefy)](https://github.com/P1ggyDev)  
 
 # My Status :chart_with_upwards_trend:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=P1ggyDev&theme=material-palenight&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=P1ggyDev&theme=buefy&count_private=true)
 
 # My Project :package:
 |       Name       | Description                                             |
