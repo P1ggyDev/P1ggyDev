@@ -14,6 +14,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=P1ggyDev&theme=buefy&count_private=true)
 
 # My Project :package:
-|       Name       | Description                                             |
-|:----------------:|---------------------------------------------------------|
+|       Name       |                       Description                       |
+|:----------------:|:-------------------------------------------------------:|
 | PluginVerifyTool | PocketMine's plugin verification tool using SHA256 hash |
+|  PluginHashTool  |                 Generate an SHA256 hash                 |
